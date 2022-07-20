@@ -1,5 +1,7 @@
+import '../styles/components/mainContent.sass'
+
 export function MainContent(){
   return(
-    <div>MainContent</div>
+    <main id='main-content'>MainContent</main>
   )
 }
