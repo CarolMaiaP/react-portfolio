@@ -4,8 +4,9 @@ export function AboutContainer(){
   return(
     <section className='about-container'>
       <h2>Sobre</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eaque dolores velit illo dignissimos. Beatae, itaque omnis provident minus doloribus iure obcaecati, fugit nisi ipsam non vel laborum nam exercitationem?</p>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum, corrupti quidem assumenda qui voluptate, accusamus nesciunt dignissimos illo dolore ex unde vero voluptatum expedita veniam et enim reprehenderit, quia at?</p>
+      <p>Oi! Meu nome é Caroline, tenho 22 anos e sou formada em Análise e Desenvolvimento de Sistemas.</p>
+      <p>Em 2019 comecei a trabalhar como dev front-end.</p>
+      <p>Atualmente estou me aprofundando em react para seguir caminho nessa área</p>
     </section>
   )
 }
